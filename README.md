@@ -3,7 +3,7 @@
 ## 🧠 Objetivo:
 Criar um modelo de regressão linear para prever
 qual será o Investimento inicial necessário de uma
-franquia a partir da Taxa Anual cobrado pelo
+franquia a partir da Taxa Anual cobrada pelo
 franqueador.
 
 ## 📚 Créditos
