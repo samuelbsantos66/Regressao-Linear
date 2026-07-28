@@ -3,8 +3,11 @@
 ## 📚 Créditos
 
 Curso: Formação Cientista de Dados: O Curso Completo - 2026
+
 Instrutor: Fernando Amaral
+
 Exercício: FAÇA VOCÊ MESMO (Regressão Linear)
+
 Arquivo original: slr12.csv (fornecido no material do curso)
 
 ## 📄 Licença
